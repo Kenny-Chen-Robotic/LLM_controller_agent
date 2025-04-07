@@ -21,7 +21,7 @@ Closed-loop Control Testing with LLM-Generated Outputs: Featuring Simulation & R
 </div>
 <br>  <!-- 这是空行间隔 -->
 
-# Real-time industrial data result
+# Real-time industrial data experiment result
 <br>  <!-- 这是空行间隔 -->
 
 <div align="center">
