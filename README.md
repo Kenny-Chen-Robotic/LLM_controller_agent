@@ -1,5 +1,5 @@
 # Introduction
-We try to control an industrial process directly via large language model and the result is positive so far. Overall, the theme of this repository is about <Closed-loop Control Testing with LLM-Generated Outputs: Featuring Simulation & Real-time Industrial Data Interaction>
+We try to control an industrial process directly via large language model, and then we come out a PID parameter tuner in the same way. The result is positive so far. Overall, the theme of this repository is about <Closed-loop Control Testing with LLM-Generated Outputs: Featuring Simulation & Real-time Industrial Data Interaction>
 
 
 <br>  <!-- 这是空行间隔 -->
@@ -21,7 +21,7 @@ We try to control an industrial process directly via large language model and th
 </div>
 <br>  <!-- 这是空行间隔 -->
 
-# Real-time industrial data experiment result
+# Experiment result of online PID parameter tuner with Real-time industrial data flow
 <br>  <!-- 这是空行间隔 -->
 
 <div align="center">
@@ -50,6 +50,6 @@ We try to control an industrial process directly via large language model and th
 <br>  <!-- 这是空行间隔 -->
 
 # Advanced research
-Fine-tuned LLM / LLM local deployment / Interaction between LLM controller and data-twin simulator.
+Fine-tuned LLM / LLM local deployment / Interaction between LLM controller and data-twin simulator / Multi-agent cooperation.
 
 <br>  <!-- 这是空行间隔 -->
