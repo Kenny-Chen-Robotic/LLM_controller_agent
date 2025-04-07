@@ -14,9 +14,8 @@ from datetime import datetime
 import re
 
 DEEPSEEK_API = "https://api.deepseek.com/v1/chat/completions"
-API_KEY = "sk-6115612663284d6ca109bcc3d9cb8407"
+API_KEY = YOUR-KEY
 
-# Deepseek API
 def process_with_llm(data):
 
     prompt = f"""锂电池辊缝模式辊压机工业控制优化建议生成：
@@ -144,7 +143,7 @@ if __name__ == "__main__":
     except:
         pass
     
-    # 返回标准化结果, 打印语句让ignition端直接收到
+    # 返回标准化结果
     print(data_dict)
 
 
