@@ -1,5 +1,6 @@
 # LLM_controller_agent
 Experiment of closed-loop control directly via LLM Api, including simulation and real-time interaction with industrial data flow. 
+<br>  <!-- 这是空行间隔 -->
 
 # LLM_control_framework
 <div align="center">
@@ -21,7 +22,7 @@ Experiment of closed-loop control directly via LLM Api, including simulation and
 <br>  <!-- 这是空行间隔 -->
 
 <div align="center">
-  <img src="images/Kp_result.jpg" alt="Kp_result" style="width: 650px; height: auto;"/>
+  <img src="images/Kp_result.png" alt="Kp_result" style="width: 650px; height: auto;"/>
 
   *Figure3: Kp_result*
 </div>
