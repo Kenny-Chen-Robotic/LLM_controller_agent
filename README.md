@@ -13,7 +13,7 @@ We try to control an industrial process directly via large language model, and t
 
 <br>  <!-- 这是空行间隔 -->
 
-# Simulation Result
+# Simulation result
 <div align="center">
   <img src="images/Simulation.png" alt="Simulation Results" style="max-width: 70%; height: auto;"/>
 
