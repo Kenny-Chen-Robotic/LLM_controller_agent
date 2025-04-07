@@ -13,7 +13,7 @@ from sklearn.metrics import mean_squared_error
 import time
 
 # DeepSeek API配置
-DEEPSEEK_API_KEY = "sk-6115612663284d6ca109bcc3d9cb8407"
+DEEPSEEK_API_KEY = YOUR-KEY
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 
