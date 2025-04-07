@@ -1,8 +1,8 @@
-# LLM_controller_agent
+# Introduction
 Closed-loop Control Testing with LLM-Generated Outputs: Featuring Simulation & Real-time Industrial Data Interaction. 
 <br>  <!-- 这是空行间隔 -->
 
-# LLM_control_framework
+# Framework of LLM closed-loop controller
 <div align="center">
   <img src="images/Framework.png" alt="Framework" style="width: 700px; height: auto;"/>
 
