@@ -1,11 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Mar 31 20:06:14 2025
-
-@author: zugang.chen
+Data acquisition and assembly demo in SCADA
 """
 
-# ignition_client.py
 import urllib2
 import json
 import time
