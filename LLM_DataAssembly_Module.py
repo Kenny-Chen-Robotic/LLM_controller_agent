@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Data acquisition and assembly demo in SCADA
+Data acquisition and assembly demo in Ignition
 """
 
 import urllib2
