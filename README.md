@@ -12,7 +12,7 @@ Closed-loop Control Testing with LLM-Generated Outputs: Featuring Simulation & R
 
 # Simulation Result
 <div align="center">
-  <img src="images/Simulation.png" alt="Simulation Results" style="max-width: 80%; height: auto;"/>
+  <img src="images/Simulation.png" alt="Simulation Results" style="max-width: 70%; height: auto;"/>
 
   *Figure2: Simulation result*
 </div>
