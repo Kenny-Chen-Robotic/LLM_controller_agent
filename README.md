@@ -4,7 +4,7 @@ Experiment of closed-loop control directly via LLM Api, including simulation and
 
 # LLM_control_framework
 <div align="center">
-  <img src="images/Framework.png" alt="Framework" style="width: 800px; height: auto;"/>
+  <img src="images/Framework.png" alt="Framework" style="width: 700px; height: auto;"/>
 
   *Figure1: Framework*
 </div>
@@ -12,17 +12,17 @@ Experiment of closed-loop control directly via LLM Api, including simulation and
 
 # Simulation Result
 <div align="center">
-  <img src="images/Simulation.png" alt="Simulation" style="width: 800px; height: auto;"/>
+  <img src="images/Simulation.png" alt="Simulation" style="width: 1000px; height: auto;"/>
 
   *Figure2: Simulation result*
 </div>
 <br>  <!-- 这是空行间隔 -->
 
-# Industrial deployment test result
+# Real-time industrial data result
 <br>  <!-- 这是空行间隔 -->
 
 <div align="center">
-  <img src="images/Kp_result.png" alt="Kp_result" style="width: 650px; height: auto;"/>
+  <img src="images/Kp_result.png" alt="Kp_result" style="width: 550px; height: auto;"/>
 
   *Figure3: Kp_result*
 </div>
@@ -31,7 +31,7 @@ Experiment of closed-loop control directly via LLM Api, including simulation and
 <br>  <!-- 这是空行间隔 -->
 
 <div align="center">
-  <img src="images/Ki_result.png" alt="Ki_result" style="width: 650px; height: auto;"/>
+  <img src="images/Ki_result.png" alt="Ki_result" style="width: 550px; height: auto;"/>
   
   *Figure4: Ki_result*
 </div>
@@ -41,7 +41,7 @@ Experiment of closed-loop control directly via LLM Api, including simulation and
 
 
 <div align="center">
-  <img src="images/Kd_result.png" alt="Kd_result" style="width: 650px; height: auto;"/>
+  <img src="images/Kd_result.png" alt="Kd_result" style="width: 550px; height: auto;"/>
   
   *Figure5: Kd_result*
 </div>
