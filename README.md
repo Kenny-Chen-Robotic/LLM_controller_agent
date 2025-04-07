@@ -10,6 +10,7 @@ Closed-loop Control Testing with LLM-Generated Outputs: Featuring Simulation & R
 
   *Figure1: Framework*
 </div>
+
 <br>  <!-- 这是空行间隔 -->
 
 # Simulation Result
