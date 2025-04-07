@@ -10,7 +10,7 @@ script_path = YOUR-SAVE-PATH  # 使用原始字符串
 
 machineNo = YOUR-MACHINE-NUMBER
 BUFFER_SIZE = 10
-client = LLM_Data_Client.Client()
+client = LLM_DataAssembly_Module.Client()
 
 while 1:
 	
