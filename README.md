@@ -25,29 +25,29 @@ Closed-loop Control Testing with LLM-Generated Outputs: Featuring Simulation & R
 <br>  <!-- 这是空行间隔 -->
 
 <div align="center">
-  <img src="images/Kp_result.png" alt="Kp_result" style="width: 550px; height: auto;"/>
+  <img src="images/Kp_result.png" alt="Kp_result" style="width: 500px; height: auto;"/>
 
   *Figure3: Kp_result*
 </div>
 
-
 <br>  <!-- 这是空行间隔 -->
 
 <div align="center">
-  <img src="images/Ki_result.png" alt="Ki_result" style="width: 550px; height: auto;"/>
+  <img src="images/Ki_result.png" alt="Ki_result" style="width: 500px; height: auto;"/>
   
   *Figure4: Ki_result*
 </div>
 
-
 <br>  <!-- 这是空行间隔 -->
 
 
 <div align="center">
-  <img src="images/Kd_result.png" alt="Kd_result" style="width: 550px; height: auto;"/>
+  <img src="images/Kd_result.png" alt="Kd_result" style="width: 500px; height: auto;"/>
   
   *Figure5: Kd_result*
 </div>
+
+<br>  <!-- 这是空行间隔 -->
 
 # Advanced research
 Fine-tuned LLM / LLM local deployment / LLM control interacts with data-twin simulator.
