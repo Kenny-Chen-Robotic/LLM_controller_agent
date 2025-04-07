@@ -21,7 +21,7 @@ We try to control an industrial process directly via large language model, and t
 </div>
 <br>  <!-- 这是空行间隔 -->
 
-# Experiment result of online PID parameter tuner orienting to Real-time industrial data flow
+# Result of online PID parameter tuner orienting to Real-time industrial data flow
 <br>  <!-- 这是空行间隔 -->
 
 <div align="center">
