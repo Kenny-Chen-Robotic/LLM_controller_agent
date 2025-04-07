@@ -50,6 +50,6 @@ We try to control an industrial process directly via large language model and th
 <br>  <!-- 这是空行间隔 -->
 
 # Advanced research
-Fine-tuned LLM / LLM local deployment / LLM control interacts with data-twin simulator.
+Fine-tuned LLM / LLM local deployment / Interaction between LLM controller and data-twin simulator.
 
 <br>  <!-- 这是空行间隔 -->
