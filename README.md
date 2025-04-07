@@ -11,9 +11,9 @@ Experiment of closed-loop control directly via LLM Api, including simulation and
 
 # Simulation Result
 <div align="center">
-  <img src="images/Framework.png" alt="Framework" style="width: 800px; height: auto;"/>
+  <img src="images/Simulation.png" alt="Simulation" style="width: 800px; height: auto;"/>
 
-  *Figure2: Framework*
+  *Figure2: Simulation result*
 </div>
 <br>  <!-- 这是空行间隔 -->
 
