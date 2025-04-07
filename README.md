@@ -1,5 +1,5 @@
 # Introduction
-Closed-loop Control Testing with LLM-Generated Outputs: Featuring Simulation & Real-time Industrial Data Interaction. 
+We try to control a industrial process directly via large language model. Therefore, the theme is about <Closed-loop Control Testing with LLM-Generated Outputs: Featuring Simulation & Real-time Industrial Data Interaction>. 
 
 
 <br>  <!-- 这是空行间隔 -->
