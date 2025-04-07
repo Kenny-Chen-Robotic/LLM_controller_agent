@@ -1,5 +1,5 @@
 # LLM_controller_agent
-Experiment of closed-loop control directly via LLM Api, including simulation and real-time interaction with industrial data flow. 
+Closed-loop Control Testing with LLM-Generated Outputs: Featuring Simulation & Real-time Industrial Data Interaction. 
 <br>  <!-- 这是空行间隔 -->
 
 # LLM_control_framework
