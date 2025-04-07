@@ -6,9 +6,9 @@ import ast
 import re
 
 # 定义本地脚本路径和参数
-script_path = r"C:\Users\52351\Desktop\LLM_control_ignition_PIDtuner.py"  # 使用原始字符串
+script_path = YOUR-SAVE-PATH  # 使用原始字符串
 
-machineNo = 'CalenderAnode11'
+machineNo = YOUR-MACHINE-NUMBER
 BUFFER_SIZE = 10
 client = LLM_Data_Client.Client()
 
